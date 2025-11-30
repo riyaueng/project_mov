@@ -1,4 +1,4 @@
-# 🎬 Mov. - Explore new Horizons
+# 🎞️ Mov. - Explore new Horizons
 
 Deine Movie-Discovery-App für entspannte Filmabende – entdecke Trends, durchsuche die Filmbibliothek und baue deine persönliche Sammlung auf.
 
